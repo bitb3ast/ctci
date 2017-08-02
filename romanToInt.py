@@ -27,5 +27,5 @@ if __name__ == '__main__':
 			i += 1
 
 
-	print('The sum of the number is ',result)
+	print('The number is ',result)
 
